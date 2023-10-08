@@ -1,3 +1,54 @@
 h1{
     color:red ;
 }
+h1.custom{
+    color: blue;
+}
+h1.topic{
+    color: #002452;
+    font-family: HelveticaNeue;
+    font-size: 160px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160px; /* 100% */
+}
+.subTopic{
+    color: rgba(22, 55, 96, 0.35);
+    fill: rgba(22, 55, 96, 0.35);
+    font-family: HelveticaNeue;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.button{
+    background-color: red;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.Rrrrr {
+    color: #00377e;
+    fill: #002452;
+    font-family: HelveticaNeue;
+    font-size: 160px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160px; 
+}
+.topic2{
+    color: #002452;
+    fill: #002452;
+font-family: HelveticaNeue;
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+line-height: 60px;
+}
+
+
